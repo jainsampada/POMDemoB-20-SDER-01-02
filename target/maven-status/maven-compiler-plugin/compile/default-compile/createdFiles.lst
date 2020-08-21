@@ -1,0 +1,3 @@
+com\HRM\Testbase\TestBase.class
+com\Pages\HomePage.class
+com\Pages\LoginPage.class
